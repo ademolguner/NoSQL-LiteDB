@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\NoSql\LiteDbExample\bin\Debug\LiteDbExample.exe.config
+C:\Users\user\source\repos\NoSql\LiteDbExample\bin\Debug\LiteDbExample.exe
+C:\Users\user\source\repos\NoSql\LiteDbExample\bin\Debug\LiteDbExample.pdb
+C:\Users\user\source\repos\NoSql\LiteDbExample\bin\Debug\LiteDB.dll
+C:\Users\user\source\repos\NoSql\LiteDbExample\bin\Debug\LiteDB.xml
+C:\Users\user\source\repos\NoSql\LiteDbExample\obj\Debug\LiteDbExample.Form1.resources
+C:\Users\user\source\repos\NoSql\LiteDbExample\obj\Debug\LiteDbExample.Properties.Resources.resources
+C:\Users\user\source\repos\NoSql\LiteDbExample\obj\Debug\LiteDbExample.csproj.GenerateResource.cache
+C:\Users\user\source\repos\NoSql\LiteDbExample\obj\Debug\LiteDbExample.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\NoSql\LiteDbExample\obj\Debug\LiteDbExample.csproj.CopyComplete
+C:\Users\user\source\repos\NoSql\LiteDbExample\obj\Debug\LiteDbExample.exe
+C:\Users\user\source\repos\NoSql\LiteDbExample\obj\Debug\LiteDbExample.pdb
+C:\Users\user\source\repos\NoSql\LiteDbExample\obj\Debug\LiteDbExample.csprojAssemblyReference.cache
